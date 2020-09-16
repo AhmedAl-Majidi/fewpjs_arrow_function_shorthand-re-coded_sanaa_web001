@@ -1,6 +1,6 @@
 const divide = function(a) {
   return a / 100;
-} 
+}
 
 const square = num => num * num
 
