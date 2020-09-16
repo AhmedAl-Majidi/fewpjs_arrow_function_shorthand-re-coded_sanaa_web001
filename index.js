@@ -1,5 +1,5 @@
-const divide = function(a) {
-  return a / 100;
+const divide = function() {
+  return 2000 / 100;
 }
 
 const square = num => num * num
